@@ -25,7 +25,7 @@ To build a classification model that can predict diabetes based on several medic
 
 ## ✅ Model Performance
 - Best model: **Random Forest Classifier**
-- Accuracy on test set: ~84%
+- Accuracy on test set: ~94.8%
 - Included evaluation for both test and training datasets
 
 ## 🔮 Prediction Example
